@@ -1,0 +1,26 @@
+div {
+    border: 2px solid black;
+    margin-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.uniform > p{
+    padding: 20px;
+}
+
+.Non-Uniform >p{
+    
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+.Percentage >p{
+    padding: 5%;
+}

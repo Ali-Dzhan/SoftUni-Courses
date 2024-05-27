@@ -1,0 +1,28 @@
+div {
+    border: 2px solid black;
+    margin-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.fixed{
+    height: 200px;
+}
+
+.percentage{
+    
+    height: 50%;
+}
+
+.viewport{
+    height: 50vh;
+}
+
+.min-max{
+   min-height: 100px;
+   max-height: 300px;
+}

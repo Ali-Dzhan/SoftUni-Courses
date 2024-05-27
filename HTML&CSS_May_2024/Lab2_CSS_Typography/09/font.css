@@ -1,0 +1,29 @@
+div {
+    border: 2px solid black;
+    margin-bottom: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.family > p{
+    font-family: Arial, sans-serif;
+}
+
+.size > p {
+    font-size: 24px;
+}
+
+.weight > p {
+    font-weight: bold;
+}
+
+.style > p {
+    font-style: italic;
+}
+
+.variant > p {
+    font-variant: small-caps;
+}
+
