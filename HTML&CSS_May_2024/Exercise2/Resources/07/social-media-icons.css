@@ -1,0 +1,42 @@
+body {
+    padding: 2em;
+    margin: 0;
+    font-family: Lato, sans-serif;
+}
+
+.socials {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.socials li {
+    display: inline-block;
+    margin-right: 0.5em;
+}
+
+.socials li a {
+    display: block;
+    width: 3.5rem;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    aspect-ratio: 1/1;
+    text-align: center;
+    align-content: center;
+    background-color: #eee;
+    border-radius: 50%;
+    color: black; /* Default text color */
+}
+
+.socials li a:hover {
+    background-color: orange;
+    border-radius: 50%;
+}
+
+ul.socials li a.facebook {
+    color: blue;
+}
+
+ul.socials li a.twitter {
+    color: lightskyblue;
+}
