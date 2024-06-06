@@ -1,0 +1,39 @@
+.row {
+    border: 2px solid blue;
+    padding: 1em;
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    background: #eee;
+    padding: 20px;
+    border:  2px solid #000;
+}
+
+.row-reverse {
+    border: 2px solid blue;
+    padding: 1em;
+    width: 400px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.column {
+    border: 2px solid blue;
+    padding: 1em;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.column-reverse {
+    border: 2px solid blue;
+    padding: 1em;
+    width: 400px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+
