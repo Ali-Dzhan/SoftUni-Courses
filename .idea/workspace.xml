@@ -1,200 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e2424e-85d1-4a45-9764-7f6b45bb0f98" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P01DayOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P01DayOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P02PrintNumbersInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P02PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P03SumEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P03SumEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P04ReverseArrayOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P04ReverseArrayOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P05EvenAndOddSubtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P05EvenAndOddSubtraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P06EqualArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P06EqualArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/Lab/P07CondenseArrayToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/Lab/P07CondenseArrayToNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Arrays/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P01CountCharsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P01CountCharsInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P02AMinerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P02AMinerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P03LegendaryFarmerDesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P03LegendaryFarmerDesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P03LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P03LegendaryFarming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P03LegendaryFarming2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P03LegendaryFarming2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P04Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P04Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P05SoftUniParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P05SoftUniParking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P06Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P06Courses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P07StudentAcademy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P07StudentAcademy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P08CompanyUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P08CompanyUsers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P09ForceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P09ForceBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/P10SoftUniExamResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/P10SoftUniExamResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/Exercise/PlantDiscovery_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/Exercise/PlantDiscovery_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/lab/P01CountRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/lab/P01CountRealNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/lab/P02WordSynonyms.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/lab/P02WordSynonyms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/lab/P03OddOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/lab/P03OddOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Associative_Arrays/lab/P04WordFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Associative_Arrays/lab/P04WordFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Ages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Ages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/PadawanEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/PadawanEquipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/PrintAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/PrintAndSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/RageExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/RageExpenses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/StrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/TriangleOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/TriangleOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/Vacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Exercise1/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Exercise1/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/EnglishNameOfTheLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/EnglishNameOfTheLastDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/GamingStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/GamingStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/Messages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/SortNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/MoreExercises/SortNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/BackIn30Minutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/Divisibleby3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/Divisibleby3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/ForeignLanguages.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/ForeignLanguages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/MonthPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/MonthPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/MultiplicationTable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/MultiplicationTable2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/Passed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/Passed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/PassedOrFailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/PassedOrFailed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/RefactorSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/RefactorSumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/StudentInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/SumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicSyntaxConditionalStatementsAndLoops/lab1/TheatrePromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/BasicSyntaxConditionalStatementsAndLoops/lab1/TheatrePromotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P01IntegerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P01IntegerOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P02SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P02SumDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P03Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P03Elevator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P04SumOfChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P04SumOfChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P05PrintPartOfASCIITable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P05PrintPartOfASCIITable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P06TriplesOfLatinLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P06TriplesOfLatinLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P07WaterOverflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P07WaterOverflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P08BeerKegs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P08BeerKegs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P09SpiceMustFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P09SpiceMustFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P10PokeMon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P10PokeMon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Exercise/P11Snowballs.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Exercise/P11Snowballs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/CenturiesToMinutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/CenturiesToMinutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/CharsToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/CharsToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/ContactNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/ContactNames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/ConvertMetersToKilometers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/ConvertMetersToKilometers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/ExactSumOfRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/ExactSumOfRealNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/LowerOrUpper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/LowerOrUpper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/PoundsToDollars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/PoundsToDollars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/RefactorSpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/RefactorSpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/ReversedChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/ReversedChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/SpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/SpecialNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/TownInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/TownInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Lab/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Lab/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/DataTypesAndVariables/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P01WorldTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P01WorldTour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P02DestinationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P02DestinationMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P03EmojiDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P03EmojiDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P03PlantDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P03PlantDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P04ThePianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P04ThePianist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P05SecretChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P05SecretChat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P06AdAstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P06AdAstra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P07Pirates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P07Pirates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P08ActivationKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P08ActivationKeys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P09MirrorWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P09MirrorWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P10NeedForSpeedIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P10NeedForSpeedIII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepFinal1/P11TheLimitationGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepFinal1/P11TheLimitationGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P01BonusScoringSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P01BonusScoringSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P01ComputerStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P01ComputerStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P01WorldTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P01WorldTour.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P02GuineaPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P02GuineaPig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P02MuOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P02MuOnline.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P03Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P03Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExamPrepMid/P03MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ExamPrepMid/P03MemoryGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/ArrayRotation_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/ArrayRotation_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P01Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P01Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P02CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P02CommonElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P03ZigZagArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P03ZigZagArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P06EqualSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P06EqualSums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P07MaxSequenceOfEqualElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P07MaxSequenceOfEqualElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P08MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P08MagicSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P09ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P09ArrayModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/P10TheLift.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/P10TheLift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise/TopIntegers_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Exercise/TopIntegers_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalExam/DecryptingCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/FinalExam/DecryptingCommands.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalExam/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/FinalExam/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalExam/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/FinalExam/Exercise2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalExam/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/FinalExam/Exercise3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P01Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P01Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P02ChangeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P02ChangeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P03HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P03HouseParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P04ListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P04ListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P05BombNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P05BombNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P06CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P06CardsGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P07AppendArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P07AppendArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P08AnonymousThreat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P08AnonymousThreat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P09PokemonDontGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P09PokemonDontGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Exercise/P10SoftUniCoursePlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Exercise/P10SoftUniCoursePlanning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P01SumAdjacentEqualNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P01SumAdjacentEqualNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P02GaussTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P02GaussTrick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P03MergingLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P03MergingLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P04ListManipulationBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P04ListManipulationBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P05ManipulationAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P05ManipulationAdvanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P06ListOfProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P06ListOfProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/Lab/P07RemoveNegativesAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/Lab/P07RemoveNegativesAndReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/MoreExercise/P01Messaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/MoreExercise/P01Messaging.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/MoreExercise/P02CarRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/List/MoreExercise/P02CarRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P01SmallestOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P01SmallestOfThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P02VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P02VowelsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P03CharactersInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P03CharactersInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P04PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P04PasswordValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P05AddAndSubtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P05AddAndSubtract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P06MiddleCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P06MiddleCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P07NxNMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P07NxNMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P08FactorialDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P08FactorialDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P09PalindromeIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P09PalindromeIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/Exercise/P10TopNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/Exercise/P10TopNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MoreExercise/P01DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/MoreExercise/P01DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MoreExercise/P02CenterPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/MoreExercise/P02CenterPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MoreExercise/P03LongerLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/MoreExercise/P03LongerLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MoreExercise/P04TribonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/MoreExercise/P04TribonacciSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MoreExercise/P05MultiplicationSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/MoreExercise/P05MultiplicationSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P01SignIntegerNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P01SignIntegerNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P02Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P02Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P03PrintingTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P03PrintingTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P04Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P04Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P05Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P05Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P06CalcRectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P06CalcRectangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P07RepeatingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P07RepeatingString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P08MathPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P08MathPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P09GreaterOfTwoValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P09GreaterOfTwoValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P10MultiplyEvensByOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P10MultiplyEvensByOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/lab/P11MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Methods/lab/P11MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid_Exam/P01TheHuntingGames.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Mid_Exam/P01TheHuntingGames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid_Exam/P02FriendListMaintenance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Mid_Exam/P02FriendListMaintenance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mid_Exam/P03SchoolLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Mid_Exam/P03SchoolLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_01/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_01/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_01/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_02/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_02/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_02/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_03/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_03/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_03/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_04/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_04/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_05/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_05/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_05/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_06/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_06/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_06/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_07/GroomingSalon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_07/GroomingSalon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_07/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/exercise_07/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/ObjectsAndClasses/exercise_07/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P01Furniture.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P01Furniture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P02Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P02Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P03SoftUniBarIncome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P03SoftUniBarIncome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P03StarEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P03StarEnigma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P05NetherRealms.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P05NetherRealms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P06ExtractEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P06ExtractEmails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/exercise/P06ValidatePassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/exercise/P06ValidatePassword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/lab/P01MatchFullName.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/lab/P01MatchFullName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/lab/P02MatchPhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/lab/P02MatchPhoneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressions/lab/P03MatchDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/RegularExpressions/lab/P03MatchDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/ExtractFile_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/ExtractFile_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/LettersChangeNumbers_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/LettersChangeNumbers_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/P02CharacterMultiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/P02CharacterMultiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/P04CaesarCipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/P04CaesarCipher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/P05MultiplyBigNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/P05MultiplyBigNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/P07StringExplosion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/P07StringExplosion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/ReplaceRepeatingChars_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/ReplaceRepeatingChars_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Processing_Exercise/Valid_Username.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Fundamentals_Sept_2023/Text_Processing_Exercise/Valid_Username.java" afterDir="false" />
+    <list default="true" id="63e2424e-85d1-4a45-9764-7f6b45bb0f98" name="Changes" comment="Create inf">
+      <changelist_data name="Ali-Dzhan Sadak" email="118597212+ali-dzhan@users.noreply.github.com" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/gringotts/WizardDeposits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Diagnose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Medicament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Patient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Visitation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/BillingDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/CardType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/Sale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/StoreLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,12 +40,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ali-Dzhan"
+  }
+}]]></component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ali-Dzhan/SoftUni-Courses.git",
+    "accountId": "cfc890f3-4540-4f50-9b16-05b5337eb825"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Vnm3kr1sVRwd2euBYqEubdGexi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -244,5 +109,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JPA relations exercises" />
+    <MESSAGE value="Create inf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create inf" />
   </component>
 </project>
