@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63e2424e-85d1-4a45-9764-7f6b45bb0f98" name="Changes" comment="Create inf">
-      <changelist_data name="Ali-Dzhan Sadak" email="118597212+ali-dzhan@users.noreply.github.com" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/gringotts/WizardDeposits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Diagnose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Medicament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/hospital/Visitation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/BillingDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/paymentSystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/Sale.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/sales/StoreLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bg/softuni/entities/university/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="63e2424e-85d1-4a45-9764-7f6b45bb0f98" name="Changes" comment="Add BookShop project to Spring Data folder." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,12 +18,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ali-Dzhan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ali-Dzhan&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubProjectSettings">
     <option name="branchProtectionPatterns">
       <list>
@@ -60,12 +31,12 @@
       </list>
     </option>
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ali-Dzhan/SoftUni-Courses.git",
-    "accountId": "cfc890f3-4540-4f50-9b16-05b5337eb825"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ali-Dzhan/SoftUni-Courses.git&quot;,
+    &quot;accountId&quot;: &quot;cfc890f3-4540-4f50-9b16-05b5337eb825&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -77,14 +48,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Ali/IdeaProjects/SoftUni-Courses/Spring Data",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali\IdeaProjects\SoftUni-Courses\Spring Data" />
+      <recent name="C:\Users\Ali\IdeaProjects\SoftUni-Courses\Spring Data\BookShop" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ali\IdeaProjects\SoftUni-Courses\Spring Data\JPA_Relations_10" />
       <recent name="C:\Users\Ali-Djan\Documents\GitHub\SoftUni-Courses\Java_Fundamentals_Sept_2023" />
     </key>
   </component>
@@ -96,8 +78,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695480021336</updated>
+      <workItem from="1730652823583" duration="1152000" />
     </task>
+    <task id="LOCAL-00001" summary="Add BookShop project to Spring Data folder.">
+      <option name="closed" value="true" />
+      <created>1730653718117</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730653718117</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -113,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JPA relations exercises" />
     <MESSAGE value="Create inf" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create inf" />
+    <MESSAGE value="Add BookShop project to Spring Data folder." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BookShop project to Spring Data folder." />
   </component>
 </project>
